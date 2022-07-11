@@ -1,0 +1,42 @@
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header-row {
+  display: flex;
+  align-items: center;
+}
+
+.header-name {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  margin-right: 5px;
+}
+
+.header-logo {
+  height: 32px;
+}
+
+.brainlogo-pool {
+  width: 100%;
+  max-width: 1440px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.brain-logo {
+  display: block;
+  margin: auto;
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+  .brain-logo {
+    min-height: 135px;
+    object-fit: scale-down;
+  }
+}
