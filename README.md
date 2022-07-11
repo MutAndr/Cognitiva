@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Website for the Study of Cognitive Distortions cognitiva.space Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
